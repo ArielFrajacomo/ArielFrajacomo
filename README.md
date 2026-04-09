@@ -27,9 +27,6 @@ My current focus is to rebuild a strong practical foundation while proving my fu
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Mobile](https://img.shields.io/badge/Mobile-black?style=flat&logo=android)
 
-## GitHub Stats
-![ArielFrajacomo GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielFrajacomo&show_icons=true&bg_color=1e1e1e&title_color=569cd6&text_color=d4d4d4&icon_color=4ec9b0&border_color=3c3c3c)
-
 ## Featured Projects
 ### Personal Presentation Challenge
 A simple HTML page created as an early challenge project, built as a self-presentation page and open to future improvements.
