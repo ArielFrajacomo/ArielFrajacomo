@@ -1,10 +1,11 @@
 # About Me
 I am refreshing my programming skills by taking courses on DevClub and building a Git portfolio at the same time.  
 
-My current focus is to rebuild a strong practical foundation while proving my full stack capabilities through hands-on projects and documented progress.
+My current focus is to rebuild a strong practical foundation while proving my skills through hands-on projects and documented progress.
 
 ## What I Am Working On
 - Refreshing programming fundamentals through DevClub courses
+  > You can see my Progression/Certificates at the [DevClub_Academy](https://github.com/ArielFrajacomo/DevClub_Academy) Repo
 - Building a Git portfolio with practical projects
 - Strengthening HTML, CSS, JavaScript, Git, Node, React, and mobile development knowledge
 - Translating and reviewing course notes from Portuguese to English
@@ -38,11 +39,11 @@ After reinforcing my full stack skills, I want to move into AI and study:
 ![Isaac%20Labs](https://img.shields.io/badge/Isaac%20Labs-black?style=flat&logo=nvidia)
 
 ## Notes About The Repositories
-The repository `DevClub_Learning` is my 1st learning space.
-Each folder represents a DevClub module or a standalone practice project.
-All lessons are translated from Portuguese to English at the same time I'm taking the class.
+The repository `DevClub_Academy` is my 1st learning space.
+Each folder inside it represents a DevClub module with a Certificate emitted at the end or a standalone practice project.
+All lessons are translated from Portuguese to English on the go.
 
-## Next Step
+## Objectives
 To score a job outside from Brazil, 
 Remote or to Live in other country, I'm up to it.
 
