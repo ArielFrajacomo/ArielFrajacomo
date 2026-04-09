@@ -1,7 +1,5 @@
-# Profile
-
-## About Me
-I am refreshing my programming skills by taking courses on DevClub and building a Git portfolio at the same time.
+# About Me
+I am refreshing my programming skills by taking courses on DevClub and building a Git portfolio at the same time.  
 
 My current focus is to rebuild a strong practical foundation while proving my full stack capabilities through hands-on projects and documented progress.
 
@@ -27,26 +25,6 @@ My current focus is to rebuild a strong practical foundation while proving my fu
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Mobile](https://img.shields.io/badge/Mobile-black?style=flat&logo=android)
 
-## Featured Projects
-### Personal Presentation Challenge
-A simple HTML page created as an early challenge project, built as a self-presentation page and open to future improvements.
-
-### We Care Pet Frontpage
-A landing page recreated from a Figma design using HTML and CSS.
-This project helped me practice layout, spacing, and visual structure.
-
-Project: `Standalone_projects/Project01-Pet/Index.html`
-
-### Challenge 2
-A hand-coded HTML and CSS project where I also experimented with editing an SVG logo and testing animation ideas.
-
-Project: `Standalone_projects/Project02-Challenge02/index.html`
-
-### First Responsive Site
-A responsive website project focused on adapting layouts across screen sizes.
-
-Project: `Standalone_projects/Project03-1st_Responsible_site/index.html`
-
 ## Learning Goals
 - Prove my full stack skills through practical projects
 - Strengthen HTML, CSS, JavaScript, Git, Node.js, React, and mobile fundamentals
@@ -59,7 +37,7 @@ After reinforcing my full stack skills, I want to move into AI and study:
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)
 ![Isaac%20Labs](https://img.shields.io/badge/Isaac%20Labs-black?style=flat&logo=nvidia)
 
-## Notes About This Repository
+## Notes About The Repositories
 The repository `DevClub_Learning` is my 1st learning space.
 Each folder represents a DevClub module or a standalone practice project.
 All lessons are translated from Portuguese to English at the same time I'm taking the class.
@@ -67,3 +45,6 @@ All lessons are translated from Portuguese to English at the same time I'm takin
 ## Next Step
 To score a job outside from Brazil, 
 Remote or to Live in other country, I'm up to it.
+
+You can find me on LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-frajacomo-a72a0215a/)
