@@ -22,6 +22,7 @@ My current focus is to rebuild a strong practical foundation while proving my sk
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Mobile](https://img.shields.io/badge/Mobile-black?style=flat&logo=android)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwind-css)
 
 
 ## Learning Goals
