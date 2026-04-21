@@ -18,13 +18,11 @@ My current focus is to rebuild a strong practical foundation while proving my sk
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
 ## Skills I Want To Prove
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Mobile](https://img.shields.io/badge/Mobile-black?style=flat&logo=android)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs)
+
 
 ## Learning Goals
 - Prove my full stack skills through practical projects
