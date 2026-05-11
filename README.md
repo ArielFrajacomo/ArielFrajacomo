@@ -16,9 +16,9 @@ My current focus is to rebuild a strong practical foundation while proving my sk
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs)
 
 ## Skills I Want To Prove
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Mobile](https://img.shields.io/badge/Mobile-black?style=flat&logo=android)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs)
